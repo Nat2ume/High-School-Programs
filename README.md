@@ -1,1 +1,1 @@
-# High-School-Programs-
+# High-School-Programs
