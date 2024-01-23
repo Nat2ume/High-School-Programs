@@ -1,5 +1,5 @@
-# Modularity
-Solo work for 2 hours, work distributed among everyone
+# Solitary
+Solo work for 2 week.
 
 ***
 Solitary play 
