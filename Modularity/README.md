@@ -3,7 +3,7 @@ Team work for 2 hours, work distributed among everyone
 
 ***
 
-# Who does what?
+## Who does what?
 
 Nathael : toit, toit1, toit2
 Jeremy : rectangle, fenetre
