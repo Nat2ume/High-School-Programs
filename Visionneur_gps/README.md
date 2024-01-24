@@ -4,5 +4,5 @@ Marathon tracking programme. Data supplied in CSV files
 ***
 
 
-# Run program
+## Run program
 Just run the visionneur.py file
