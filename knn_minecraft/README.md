@@ -1,7 +1,7 @@
 # knn_minecraft
 Sur la vidéo vous pourrez voir les oeuvres de la classe:
-(https://www.youtube.com/watch?v=YZ5PXEwQtjQ)
-Présentation de mon oeuvre sous le nom de Nathaël B.
+(https://www.youtube.com/watch?v=YZ5PXEwQtjQ).
+Présentation de mon oeuvre sous le nom de Nathaël B. :
 
 ## The Lego Museum
 Cet endroit est un musée pour enfant regroupant des images lego. En effet toutes les œuvres présentées sont colorées et enfantines.
